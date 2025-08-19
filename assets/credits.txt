@@ -1,0 +1,7 @@
+ASSET CREDITS & NOTES
+
+- hero.jpg / product1.jpg are placeholders.
+- If you replace them with images from https://kr.riman.com/ :
+  • Ensure you have the right to use those images (brand guidelines, press kit, or explicit permission).
+  • Maintain proper attribution if required.
+  • Do not include any restricted or copyrighted assets without permission.
